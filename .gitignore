@@ -27,5 +27,6 @@ dist-ssr
 # amplify
 node_modules
 .amplify
-amplify_outputs*
 amplifyconfiguration*
+amplify_outputs*
+!amplify_outputs.json
